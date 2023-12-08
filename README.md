@@ -31,6 +31,11 @@ The goal of this project was to take a look at this dataset, and analyse it to s
 
 ![image](https://github.com/Rayan-Arshed/Power-BI-New-Zealand-Migration/assets/95011650/ae21e861-f1ae-4db5-a58f-a55ed849ec48)
 
+### Migration in 1990
+
+![image](https://github.com/Rayan-Arshed/Power-BI-New-Zealand-Migration/assets/95011650/92f32bdf-0c6f-48b2-bf5f-9ed983535513)
+
+
 ### Migration in 2016
 
 ![image](https://github.com/Rayan-Arshed/Power-BI-New-Zealand-Migration/assets/95011650/5c8d8ee3-5db4-4462-9b5c-9a8b971a3a16)
